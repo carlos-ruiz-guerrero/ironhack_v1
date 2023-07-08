@@ -1,0 +1,19 @@
+
+<h3 class="list-default-title">Estudios mínimos</h3>
+
+<h3 class="list-default-title">Experiencia mínima</h3>
+
+<h3 class="list-default-title">Requisitos mínimos</h3>
+
+<h3 class="list-default-title">Tipo de industria de la oferta</h3>
+
+<h3 class="list-default-title">Categoría</h3>
+
+<span class="list-default-text">
+													<a href="/ofertas-trabajo/comercial-ventas" id="prefijoCat" class="link" title="Más ofertas en Comercial y ventas">Comercial y ventas</a> -													<a href="/ofertas-trabajo/comercial-ventas/comercial" id="prefijoSubCat" class="link" title="Más ofertas en Comercial">Comercial</a>											</span>
+
+<h3 class="list-default-title">Nivel</h3>
+
+<span>Salario: 30.000€ - 30.000€ Bruto/año</span>
+
+<strong id="candidate_application_message">6 inscritos a esta oferta</strong>
