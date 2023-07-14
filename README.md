@@ -12,3 +12,8 @@ As of today, it become obvious the impossibility to retrieve the dataset via web
 
 a) starting from an already provided .csv dataet from kaggle: https://www.kaggle.com/datasets/datamarket/ofertas-de-trabajo?resource=download
 b) finding another website where there are no web scrapping restrictions: https://www.empleate.gob.es/empleo/#/trabajo?search=*&categoria=17&checkVisible=1&pag=0
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We are considering other data sources, this is another webstie with job openings in IT-related roles: www.tecnoempleo.com
+The structure of the information that they provide is very similar to infojobs, and no mentions to web scraping being prohibited are made
